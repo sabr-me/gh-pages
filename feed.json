@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "just sabr",
+    "description": "",
+    "home_page_url": "https://sabr-me.github.io/just-sabr",
+    "feed_url": "https://sabr-me.github.io/just-sabr/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "sabr"
+    },
+    "items": [
+    ]
+}

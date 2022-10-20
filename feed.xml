@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>just sabr</title>
+    <link href="https://sabr-me.github.io/just-sabr/feed.xml" rel="self" />
+    <link href="https://sabr-me.github.io/just-sabr" />
+    <updated>1969-12-31T18:00:00-06:00</updated>
+    <author>
+        <name>sabr</name>
+    </author>
+    <id>https://sabr-me.github.io/just-sabr</id>
+
+</feed>
